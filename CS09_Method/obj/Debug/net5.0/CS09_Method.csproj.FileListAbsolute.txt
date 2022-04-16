@@ -1,0 +1,16 @@
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\obj\Debug\net5.0\CS09_Method.csproj.AssemblyReference.cache
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\obj\Debug\net5.0\CS09_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\obj\Debug\net5.0\CS09_Method.AssemblyInfoInputs.cache
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\obj\Debug\net5.0\CS09_Method.AssemblyInfo.cs
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\obj\Debug\net5.0\CS09_Method.csproj.CoreCompileInputs.cache
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\bin\Debug\net5.0\CS09_Method.exe
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\bin\Debug\net5.0\CS09_Method.deps.json
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\bin\Debug\net5.0\CS09_Method.runtimeconfig.json
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\bin\Debug\net5.0\CS09_Method.runtimeconfig.dev.json
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\bin\Debug\net5.0\CS09_Method.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\bin\Debug\net5.0\ref\CS09_Method.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\bin\Debug\net5.0\CS09_Method.pdb
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\obj\Debug\net5.0\CS09_Method.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\obj\Debug\net5.0\ref\CS09_Method.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\obj\Debug\net5.0\CS09_Method.pdb
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS09_Method\obj\Debug\net5.0\CS09_Method.genruntimeconfig.cache

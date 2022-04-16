@@ -1,0 +1,16 @@
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\obj\Debug\net5.0\CS01_Intro.csproj.AssemblyReference.cache
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\obj\Debug\net5.0\CS01_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\obj\Debug\net5.0\CS01_Intro.AssemblyInfoInputs.cache
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\obj\Debug\net5.0\CS01_Intro.AssemblyInfo.cs
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\obj\Debug\net5.0\CS01_Intro.csproj.CoreCompileInputs.cache
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\bin\Debug\net5.0\CS01_Intro.exe
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\bin\Debug\net5.0\CS01_Intro.deps.json
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\bin\Debug\net5.0\CS01_Intro.runtimeconfig.json
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\bin\Debug\net5.0\CS01_Intro.runtimeconfig.dev.json
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\bin\Debug\net5.0\CS01_Intro.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\bin\Debug\net5.0\ref\CS01_Intro.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\bin\Debug\net5.0\CS01_Intro.pdb
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\obj\Debug\net5.0\CS01_Intro.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\obj\Debug\net5.0\ref\CS01_Intro.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\obj\Debug\net5.0\CS01_Intro.pdb
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS01_Intro\obj\Debug\net5.0\CS01_Intro.genruntimeconfig.cache

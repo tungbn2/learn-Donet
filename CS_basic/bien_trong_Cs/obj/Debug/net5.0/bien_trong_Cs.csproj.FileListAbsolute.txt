@@ -1,0 +1,16 @@
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\bin\Debug\net5.0\bien_trong_Cs.exe
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\bin\Debug\net5.0\bien_trong_Cs.deps.json
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\bin\Debug\net5.0\bien_trong_Cs.runtimeconfig.json
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\bin\Debug\net5.0\bien_trong_Cs.runtimeconfig.dev.json
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\bin\Debug\net5.0\bien_trong_Cs.dll
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\bin\Debug\net5.0\ref\bien_trong_Cs.dll
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\bin\Debug\net5.0\bien_trong_Cs.pdb
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\obj\Debug\net5.0\bien_trong_Cs.csproj.AssemblyReference.cache
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\obj\Debug\net5.0\bien_trong_Cs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\obj\Debug\net5.0\bien_trong_Cs.AssemblyInfoInputs.cache
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\obj\Debug\net5.0\bien_trong_Cs.AssemblyInfo.cs
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\obj\Debug\net5.0\bien_trong_Cs.csproj.CoreCompileInputs.cache
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\obj\Debug\net5.0\bien_trong_Cs.dll
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\obj\Debug\net5.0\ref\bien_trong_Cs.dll
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\obj\Debug\net5.0\bien_trong_Cs.pdb
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\bien_trong_Cs\obj\Debug\net5.0\bien_trong_Cs.genruntimeconfig.cache

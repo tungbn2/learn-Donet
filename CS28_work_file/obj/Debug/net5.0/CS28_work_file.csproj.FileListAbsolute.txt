@@ -1,0 +1,16 @@
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\obj\Debug\net5.0\CS28_work_file.csproj.AssemblyReference.cache
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\obj\Debug\net5.0\CS28_work_file.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\obj\Debug\net5.0\CS28_work_file.AssemblyInfoInputs.cache
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\obj\Debug\net5.0\CS28_work_file.AssemblyInfo.cs
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\obj\Debug\net5.0\CS28_work_file.csproj.CoreCompileInputs.cache
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\bin\Debug\net5.0\CS28_work_file.exe
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\bin\Debug\net5.0\CS28_work_file.deps.json
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\bin\Debug\net5.0\CS28_work_file.runtimeconfig.json
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\bin\Debug\net5.0\CS28_work_file.runtimeconfig.dev.json
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\bin\Debug\net5.0\CS28_work_file.dll
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\bin\Debug\net5.0\ref\CS28_work_file.dll
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\bin\Debug\net5.0\CS28_work_file.pdb
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\obj\Debug\net5.0\CS28_work_file.dll
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\obj\Debug\net5.0\ref\CS28_work_file.dll
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\obj\Debug\net5.0\CS28_work_file.pdb
+D:\OneDrive\FPT\C#\Train C#\CS28_work_file\obj\Debug\net5.0\CS28_work_file.genruntimeconfig.cache

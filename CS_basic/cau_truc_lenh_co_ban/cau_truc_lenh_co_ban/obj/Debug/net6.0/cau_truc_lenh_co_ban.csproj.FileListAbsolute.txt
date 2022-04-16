@@ -1,0 +1,15 @@
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\bin\Debug\net6.0\cau_truc_lenh_co_ban.exe
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\bin\Debug\net6.0\cau_truc_lenh_co_ban.deps.json
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\bin\Debug\net6.0\cau_truc_lenh_co_ban.runtimeconfig.json
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\bin\Debug\net6.0\cau_truc_lenh_co_ban.dll
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\bin\Debug\net6.0\ref\cau_truc_lenh_co_ban.dll
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\bin\Debug\net6.0\cau_truc_lenh_co_ban.pdb
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\obj\Debug\net6.0\cau_truc_lenh_co_ban.csproj.AssemblyReference.cache
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\obj\Debug\net6.0\cau_truc_lenh_co_ban.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\obj\Debug\net6.0\cau_truc_lenh_co_ban.AssemblyInfoInputs.cache
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\obj\Debug\net6.0\cau_truc_lenh_co_ban.AssemblyInfo.cs
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\obj\Debug\net6.0\cau_truc_lenh_co_ban.csproj.CoreCompileInputs.cache
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\obj\Debug\net6.0\cau_truc_lenh_co_ban.dll
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\obj\Debug\net6.0\ref\cau_truc_lenh_co_ban.dll
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\obj\Debug\net6.0\cau_truc_lenh_co_ban.pdb
+E:\Gdriver\IT\C#\thuc_hanh\cau_truc_lenh_co_ban\cau_truc_lenh_co_ban\obj\Debug\net6.0\cau_truc_lenh_co_ban.genruntimeconfig.cache

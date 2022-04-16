@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CS03_Toantu/1.0.0": {
+        "runtime": {
+          "CS03_Toantu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS03_Toantu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

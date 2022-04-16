@@ -1,0 +1,16 @@
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\bin\Debug\net5.0\CS07_for_while_goto.exe
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\bin\Debug\net5.0\CS07_for_while_goto.deps.json
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\bin\Debug\net5.0\CS07_for_while_goto.runtimeconfig.json
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\bin\Debug\net5.0\CS07_for_while_goto.runtimeconfig.dev.json
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\bin\Debug\net5.0\CS07_for_while_goto.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\bin\Debug\net5.0\ref\CS07_for_while_goto.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\bin\Debug\net5.0\CS07_for_while_goto.pdb
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\obj\Debug\net5.0\CS07_for_while_goto.csproj.AssemblyReference.cache
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\obj\Debug\net5.0\CS07_for_while_goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\obj\Debug\net5.0\CS07_for_while_goto.AssemblyInfoInputs.cache
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\obj\Debug\net5.0\CS07_for_while_goto.AssemblyInfo.cs
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\obj\Debug\net5.0\CS07_for_while_goto.csproj.CoreCompileInputs.cache
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\obj\Debug\net5.0\CS07_for_while_goto.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\obj\Debug\net5.0\ref\CS07_for_while_goto.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\obj\Debug\net5.0\CS07_for_while_goto.pdb
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS07_for_while_goto\obj\Debug\net5.0\CS07_for_while_goto.genruntimeconfig.cache

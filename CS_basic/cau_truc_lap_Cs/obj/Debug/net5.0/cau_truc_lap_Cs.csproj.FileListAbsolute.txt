@@ -1,0 +1,16 @@
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\bin\Debug\net5.0\cau_truc_lap_Cs.exe
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\bin\Debug\net5.0\cau_truc_lap_Cs.deps.json
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\bin\Debug\net5.0\cau_truc_lap_Cs.runtimeconfig.json
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\bin\Debug\net5.0\cau_truc_lap_Cs.runtimeconfig.dev.json
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\bin\Debug\net5.0\cau_truc_lap_Cs.dll
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\bin\Debug\net5.0\ref\cau_truc_lap_Cs.dll
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\bin\Debug\net5.0\cau_truc_lap_Cs.pdb
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\obj\Debug\net5.0\cau_truc_lap_Cs.csproj.AssemblyReference.cache
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\obj\Debug\net5.0\cau_truc_lap_Cs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\obj\Debug\net5.0\cau_truc_lap_Cs.AssemblyInfoInputs.cache
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\obj\Debug\net5.0\cau_truc_lap_Cs.AssemblyInfo.cs
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\obj\Debug\net5.0\cau_truc_lap_Cs.csproj.CoreCompileInputs.cache
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\obj\Debug\net5.0\cau_truc_lap_Cs.dll
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\obj\Debug\net5.0\ref\cau_truc_lap_Cs.dll
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\obj\Debug\net5.0\cau_truc_lap_Cs.pdb
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\cau_truc_lap_Cs\obj\Debug\net5.0\cau_truc_lap_Cs.genruntimeconfig.cache

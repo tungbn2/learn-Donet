@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\bin\Debug\net5.0\CS47_TCP_server_client.exe
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\bin\Debug\net5.0\CS47_TCP_server_client.deps.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\bin\Debug\net5.0\CS47_TCP_server_client.runtimeconfig.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\bin\Debug\net5.0\CS47_TCP_server_client.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\bin\Debug\net5.0\CS47_TCP_server_client.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\bin\Debug\net5.0\ref\CS47_TCP_server_client.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\bin\Debug\net5.0\CS47_TCP_server_client.pdb
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\obj\Debug\net5.0\CS47_TCP_server_client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\obj\Debug\net5.0\CS47_TCP_server_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\obj\Debug\net5.0\CS47_TCP_server_client.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\obj\Debug\net5.0\CS47_TCP_server_client.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\obj\Debug\net5.0\CS47_TCP_server_client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\obj\Debug\net5.0\CS47_TCP_server_client.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\obj\Debug\net5.0\ref\CS47_TCP_server_client.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\obj\Debug\net5.0\CS47_TCP_server_client.pdb
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TCP_server_client\obj\Debug\net5.0\CS47_TCP_server_client.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\obj\Debug\net5.0\CS29_Async_await.csproj.AssemblyReference.cache
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\obj\Debug\net5.0\CS29_Async_await.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\obj\Debug\net5.0\CS29_Async_await.AssemblyInfoInputs.cache
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\obj\Debug\net5.0\CS29_Async_await.AssemblyInfo.cs
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\obj\Debug\net5.0\CS29_Async_await.csproj.CoreCompileInputs.cache
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\bin\Debug\net5.0\CS29_Async_await.exe
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\bin\Debug\net5.0\CS29_Async_await.deps.json
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\bin\Debug\net5.0\CS29_Async_await.runtimeconfig.json
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\bin\Debug\net5.0\CS29_Async_await.runtimeconfig.dev.json
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\bin\Debug\net5.0\CS29_Async_await.dll
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\bin\Debug\net5.0\ref\CS29_Async_await.dll
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\bin\Debug\net5.0\CS29_Async_await.pdb
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\obj\Debug\net5.0\CS29_Async_await.dll
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\obj\Debug\net5.0\ref\CS29_Async_await.dll
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\obj\Debug\net5.0\CS29_Async_await.pdb
+D:\OneDrive\FPT\C#\Train C#\CS29_Async_await\obj\Debug\net5.0\CS29_Async_await.genruntimeconfig.cache

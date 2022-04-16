@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CS47_TcpListener/1.0.0": {
+        "runtime": {
+          "CS47_TcpListener.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS47_TcpListener/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

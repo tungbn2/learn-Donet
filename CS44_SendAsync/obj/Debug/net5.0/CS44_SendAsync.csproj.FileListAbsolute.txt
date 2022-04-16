@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\obj\Debug\net5.0\CS44_SendAsync.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\obj\Debug\net5.0\CS44_SendAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\obj\Debug\net5.0\CS44_SendAsync.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\obj\Debug\net5.0\CS44_SendAsync.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\obj\Debug\net5.0\CS44_SendAsync.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\bin\Debug\net5.0\CS44_SendAsync.exe
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\bin\Debug\net5.0\CS44_SendAsync.deps.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\bin\Debug\net5.0\CS44_SendAsync.runtimeconfig.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\bin\Debug\net5.0\CS44_SendAsync.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\bin\Debug\net5.0\CS44_SendAsync.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\bin\Debug\net5.0\ref\CS44_SendAsync.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\bin\Debug\net5.0\CS44_SendAsync.pdb
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\obj\Debug\net5.0\CS44_SendAsync.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\obj\Debug\net5.0\ref\CS44_SendAsync.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\obj\Debug\net5.0\CS44_SendAsync.pdb
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_SendAsync\obj\Debug\net5.0\CS44_SendAsync.genruntimeconfig.cache

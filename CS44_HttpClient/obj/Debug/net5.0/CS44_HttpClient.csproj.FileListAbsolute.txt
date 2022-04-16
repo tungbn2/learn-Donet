@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\obj\Debug\net5.0\CS44_HttpClient.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\obj\Debug\net5.0\CS44_HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\obj\Debug\net5.0\CS44_HttpClient.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\obj\Debug\net5.0\CS44_HttpClient.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\obj\Debug\net5.0\CS44_HttpClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\bin\Debug\net5.0\CS44_HttpClient.exe
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\bin\Debug\net5.0\CS44_HttpClient.deps.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\bin\Debug\net5.0\CS44_HttpClient.runtimeconfig.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\bin\Debug\net5.0\CS44_HttpClient.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\bin\Debug\net5.0\CS44_HttpClient.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\bin\Debug\net5.0\ref\CS44_HttpClient.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\bin\Debug\net5.0\CS44_HttpClient.pdb
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\obj\Debug\net5.0\CS44_HttpClient.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\obj\Debug\net5.0\ref\CS44_HttpClient.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\obj\Debug\net5.0\CS44_HttpClient.pdb
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS44_HttpClient\obj\Debug\net5.0\CS44_HttpClient.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\bin\Debug\net5.0\CS03_Toantu.exe
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\bin\Debug\net5.0\CS03_Toantu.deps.json
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\bin\Debug\net5.0\CS03_Toantu.runtimeconfig.json
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\bin\Debug\net5.0\CS03_Toantu.runtimeconfig.dev.json
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\bin\Debug\net5.0\CS03_Toantu.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\bin\Debug\net5.0\ref\CS03_Toantu.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\bin\Debug\net5.0\CS03_Toantu.pdb
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\obj\Debug\net5.0\CS03_Toantu.csproj.AssemblyReference.cache
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\obj\Debug\net5.0\CS03_Toantu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\obj\Debug\net5.0\CS03_Toantu.AssemblyInfoInputs.cache
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\obj\Debug\net5.0\CS03_Toantu.AssemblyInfo.cs
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\obj\Debug\net5.0\CS03_Toantu.csproj.CoreCompileInputs.cache
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\obj\Debug\net5.0\CS03_Toantu.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\obj\Debug\net5.0\ref\CS03_Toantu.dll
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\obj\Debug\net5.0\CS03_Toantu.pdb
+C:\Users\tungf\OneDrive\FPT\C#\Train C#\CS03_Toantu\obj\Debug\net5.0\CS03_Toantu.genruntimeconfig.cache

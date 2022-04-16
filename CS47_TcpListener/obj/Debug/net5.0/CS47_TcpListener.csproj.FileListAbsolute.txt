@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\bin\Debug\net5.0\CS47_TcpListener.exe
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\bin\Debug\net5.0\CS47_TcpListener.deps.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\bin\Debug\net5.0\CS47_TcpListener.runtimeconfig.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\bin\Debug\net5.0\CS47_TcpListener.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\bin\Debug\net5.0\CS47_TcpListener.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\bin\Debug\net5.0\ref\CS47_TcpListener.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\bin\Debug\net5.0\CS47_TcpListener.pdb
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\obj\Debug\net5.0\CS47_TcpListener.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\obj\Debug\net5.0\CS47_TcpListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\obj\Debug\net5.0\CS47_TcpListener.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\obj\Debug\net5.0\CS47_TcpListener.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\obj\Debug\net5.0\CS47_TcpListener.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\obj\Debug\net5.0\CS47_TcpListener.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\obj\Debug\net5.0\ref\CS47_TcpListener.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\obj\Debug\net5.0\CS47_TcpListener.pdb
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS47_TcpListener\obj\Debug\net5.0\CS47_TcpListener.genruntimeconfig.cache

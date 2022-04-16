@@ -1,0 +1,16 @@
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\obj\Debug\net5.0\dynamic.csproj.AssemblyReference.cache
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\obj\Debug\net5.0\dynamic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\obj\Debug\net5.0\dynamic.AssemblyInfoInputs.cache
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\obj\Debug\net5.0\dynamic.AssemblyInfo.cs
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\obj\Debug\net5.0\dynamic.csproj.CoreCompileInputs.cache
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\bin\Debug\net5.0\dynamic.exe
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\bin\Debug\net5.0\dynamic.deps.json
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\bin\Debug\net5.0\dynamic.runtimeconfig.json
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\bin\Debug\net5.0\dynamic.runtimeconfig.dev.json
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\bin\Debug\net5.0\dynamic.dll
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\bin\Debug\net5.0\ref\dynamic.dll
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\bin\Debug\net5.0\dynamic.pdb
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\obj\Debug\net5.0\dynamic.dll
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\obj\Debug\net5.0\ref\dynamic.dll
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\obj\Debug\net5.0\dynamic.pdb
+E:\Gdriver\IT\C#\thuc_hanh\learn_basic\dynamic\obj\Debug\net5.0\dynamic.genruntimeconfig.cache

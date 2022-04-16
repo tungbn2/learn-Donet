@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tungf\\OneDrive\\FPT\\C#\\Train C#\\CS12_Array\\CS12_Array.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tungf\\OneDrive\\FPT\\C#\\Train C#\\CS12_Array\\CS12_Array.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tungf\\OneDrive\\FPT\\C#\\Train C#\\CS12_Array\\CS12_Array.csproj",
+        "projectName": "CS12_Array",
+        "projectPath": "C:\\Users\\tungf\\OneDrive\\FPT\\C#\\Train C#\\CS12_Array\\CS12_Array.csproj",
+        "packagesPath": "C:\\Users\\tungf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tungf\\OneDrive\\FPT\\C#\\Train C#\\CS12_Array\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tungf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

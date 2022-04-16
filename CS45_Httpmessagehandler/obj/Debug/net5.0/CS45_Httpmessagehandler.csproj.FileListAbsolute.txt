@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\bin\Debug\net5.0\CS45_Httpmessagehandler.exe
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\bin\Debug\net5.0\CS45_Httpmessagehandler.deps.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\bin\Debug\net5.0\CS45_Httpmessagehandler.runtimeconfig.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\bin\Debug\net5.0\CS45_Httpmessagehandler.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\bin\Debug\net5.0\CS45_Httpmessagehandler.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\bin\Debug\net5.0\ref\CS45_Httpmessagehandler.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\bin\Debug\net5.0\CS45_Httpmessagehandler.pdb
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\obj\Debug\net5.0\CS45_Httpmessagehandler.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\obj\Debug\net5.0\CS45_Httpmessagehandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\obj\Debug\net5.0\CS45_Httpmessagehandler.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\obj\Debug\net5.0\CS45_Httpmessagehandler.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\obj\Debug\net5.0\CS45_Httpmessagehandler.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\obj\Debug\net5.0\CS45_Httpmessagehandler.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\obj\Debug\net5.0\ref\CS45_Httpmessagehandler.dll
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\obj\Debug\net5.0\CS45_Httpmessagehandler.pdb
+C:\Users\Admin\Desktop\FPT\C#\Train C#\CS45_Httpmessagehandler\obj\Debug\net5.0\CS45_Httpmessagehandler.genruntimeconfig.cache
