@@ -1,0 +1,16 @@
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\obj\Debug\net5.0\CS34_HttpClient.csproj.AssemblyReference.cache
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\obj\Debug\net5.0\CS34_HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\obj\Debug\net5.0\CS34_HttpClient.AssemblyInfoInputs.cache
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\obj\Debug\net5.0\CS34_HttpClient.AssemblyInfo.cs
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\obj\Debug\net5.0\CS34_HttpClient.csproj.CoreCompileInputs.cache
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\bin\Debug\net5.0\CS34_HttpClient.exe
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\bin\Debug\net5.0\CS34_HttpClient.deps.json
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\bin\Debug\net5.0\CS34_HttpClient.runtimeconfig.json
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\bin\Debug\net5.0\CS34_HttpClient.runtimeconfig.dev.json
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\bin\Debug\net5.0\CS34_HttpClient.dll
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\bin\Debug\net5.0\ref\CS34_HttpClient.dll
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\bin\Debug\net5.0\CS34_HttpClient.pdb
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\obj\Debug\net5.0\CS34_HttpClient.dll
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\obj\Debug\net5.0\ref\CS34_HttpClient.dll
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\obj\Debug\net5.0\CS34_HttpClient.pdb
+D:\OneDrive\FPT\C#\Train C#\CS34_HttpClient\obj\Debug\net5.0\CS34_HttpClient.genruntimeconfig.cache

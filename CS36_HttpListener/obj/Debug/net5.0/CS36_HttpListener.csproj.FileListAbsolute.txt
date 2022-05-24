@@ -1,0 +1,16 @@
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\obj\Debug\net5.0\CS36_HttpListener.csproj.AssemblyReference.cache
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\obj\Debug\net5.0\CS36_HttpListener.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\obj\Debug\net5.0\CS36_HttpListener.AssemblyInfoInputs.cache
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\obj\Debug\net5.0\CS36_HttpListener.AssemblyInfo.cs
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\obj\Debug\net5.0\CS36_HttpListener.csproj.CoreCompileInputs.cache
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\bin\Debug\net5.0\CS36_HttpListener.exe
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\bin\Debug\net5.0\CS36_HttpListener.deps.json
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\bin\Debug\net5.0\CS36_HttpListener.runtimeconfig.json
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\bin\Debug\net5.0\CS36_HttpListener.runtimeconfig.dev.json
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\bin\Debug\net5.0\CS36_HttpListener.dll
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\bin\Debug\net5.0\ref\CS36_HttpListener.dll
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\bin\Debug\net5.0\CS36_HttpListener.pdb
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\obj\Debug\net5.0\CS36_HttpListener.dll
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\obj\Debug\net5.0\ref\CS36_HttpListener.dll
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\obj\Debug\net5.0\CS36_HttpListener.pdb
+D:\OneDrive\FPT\C#\Train C#\CS36_HttpListener\obj\Debug\net5.0\CS36_HttpListener.genruntimeconfig.cache

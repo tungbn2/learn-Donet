@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CS35_HttpMessageHandler/1.0.0": {
+        "runtime": {
+          "CS35_HttpMessageHandler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS35_HttpMessageHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

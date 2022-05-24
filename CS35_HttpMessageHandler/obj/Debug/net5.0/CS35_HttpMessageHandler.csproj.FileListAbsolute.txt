@@ -1,0 +1,16 @@
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\obj\Debug\net5.0\CS35_HttpMessageHandler.csproj.AssemblyReference.cache
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\obj\Debug\net5.0\CS35_HttpMessageHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\obj\Debug\net5.0\CS35_HttpMessageHandler.AssemblyInfoInputs.cache
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\obj\Debug\net5.0\CS35_HttpMessageHandler.AssemblyInfo.cs
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\obj\Debug\net5.0\CS35_HttpMessageHandler.csproj.CoreCompileInputs.cache
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\bin\Debug\net5.0\CS35_HttpMessageHandler.exe
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\bin\Debug\net5.0\CS35_HttpMessageHandler.deps.json
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\bin\Debug\net5.0\CS35_HttpMessageHandler.runtimeconfig.json
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\bin\Debug\net5.0\CS35_HttpMessageHandler.runtimeconfig.dev.json
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\bin\Debug\net5.0\CS35_HttpMessageHandler.dll
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\bin\Debug\net5.0\ref\CS35_HttpMessageHandler.dll
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\bin\Debug\net5.0\CS35_HttpMessageHandler.pdb
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\obj\Debug\net5.0\CS35_HttpMessageHandler.dll
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\obj\Debug\net5.0\ref\CS35_HttpMessageHandler.dll
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\obj\Debug\net5.0\CS35_HttpMessageHandler.pdb
+D:\OneDrive\FPT\C#\Train C#\CS35_HttpMessageHandler\obj\Debug\net5.0\CS35_HttpMessageHandler.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\obj\Debug\net5.0\CS30_LinQ.csproj.AssemblyReference.cache
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\obj\Debug\net5.0\CS30_LinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\obj\Debug\net5.0\CS30_LinQ.AssemblyInfoInputs.cache
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\obj\Debug\net5.0\CS30_LinQ.AssemblyInfo.cs
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\obj\Debug\net5.0\CS30_LinQ.csproj.CoreCompileInputs.cache
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\bin\Debug\net5.0\CS30_LinQ.exe
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\bin\Debug\net5.0\CS30_LinQ.deps.json
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\bin\Debug\net5.0\CS30_LinQ.runtimeconfig.json
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\bin\Debug\net5.0\CS30_LinQ.runtimeconfig.dev.json
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\bin\Debug\net5.0\CS30_LinQ.dll
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\bin\Debug\net5.0\ref\CS30_LinQ.dll
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\bin\Debug\net5.0\CS30_LinQ.pdb
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\obj\Debug\net5.0\CS30_LinQ.dll
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\obj\Debug\net5.0\ref\CS30_LinQ.dll
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\obj\Debug\net5.0\CS30_LinQ.pdb
+D:\OneDrive\FPT\C#\Train C#\CS30_LinQ\obj\Debug\net5.0\CS30_LinQ.genruntimeconfig.cache

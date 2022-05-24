@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tungf\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tungf\\OneDrive\\FPT\\C#\\Train C#\\CS43_Uri Dns Ping\\CS43_Uri Dns Ping.csproj",
+      "projectUniqueName": "D:\\OneDrive\\FPT\\C#\\Train C#\\CS43_Uri Dns Ping\\CS43_Uri Dns Ping.csproj",
       "projectName": "CS43_Uri Dns Ping",
-      "projectPath": "C:\\Users\\tungf\\OneDrive\\FPT\\C#\\Train C#\\CS43_Uri Dns Ping\\CS43_Uri Dns Ping.csproj",
-      "packagesPath": "C:\\Users\\tungf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tungf\\OneDrive\\FPT\\C#\\Train C#\\CS43_Uri Dns Ping\\obj\\",
+      "projectPath": "D:\\OneDrive\\FPT\\C#\\Train C#\\CS43_Uri Dns Ping\\CS43_Uri Dns Ping.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive\\FPT\\C#\\Train C#\\CS43_Uri Dns Ping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tungf\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
